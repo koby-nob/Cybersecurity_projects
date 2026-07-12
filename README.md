@@ -2,7 +2,7 @@
 
 <h2> Professional Cybersecurity Projects in a Production Environment:</h2>
 
-- Managed TLS & SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
+- Performed TLS & SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
   averting $40k+ plus in potential penalties.
 - Coordinated in designing a software bandaid (TLS Convertor) for Windows 7, and Windows NT POS
   
