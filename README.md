@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Hi I'm Koby, a Cyber Security Analyst</a></h1>
+<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Hi, I'm Koby, a Cyber Security Analyst</a></h1>
 
 <h2> Professional Cybersecurity Projects in a Production Environment:</h2>
 
@@ -30,7 +30,7 @@
 - Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment network.
 
 - Conducted structured network traffic analysis using wireshark to identify abormal communication patterns, validated host activities,
-  and documented findings aligned with SOC triage methodology.
+  and documented findings aligned.
   
 - Certified Blue Team Level 1: Demonstrated practical knowledge across 5 security domains: Phishing Analysis, Threat Intelligence, Digital Forensics, SIEM, and Incident Response.
   
